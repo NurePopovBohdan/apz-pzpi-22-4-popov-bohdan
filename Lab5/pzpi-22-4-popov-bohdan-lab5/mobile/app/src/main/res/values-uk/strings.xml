@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App name -->
+    <string name="app_name">AutoCare</string>
+
+    <!-- General -->
+    <string name="welcome">Ласкаво просимо до AutoCare</string>
+    <string name="login">Увійти</string>
+    <string name="register">Зареєструватися</string>
+    <string name="email">Електронна пошта</string>
+    <string name="password">Пароль</string>
+    <string name="confirm_password">Підтвердіть пароль</string>
+    <string name="forgot_password">Забули пароль?</string>
+
+    <!-- Navigation -->
+    <string name="home">Головна</string>
+    <string name="profile">Профіль</string>
+    <string name="settings">Налаштування</string>
+    <string name="services">Послуги</string>
+
+    <!-- Car Information -->
+    <string name="car_details">Деталі автомобіля</string>
+    <string name="car_make">Марка</string>
+    <string name="car_model">Модель</string>
+    <string name="car_year">Рік</string>
+    <string name="license_plate">Номерний знак</string>
+    <string name="mileage">Пробіг</string>
+
+    <!-- Services -->
+    <string name="oil_change">Заміна масла</string>
+    <string name="tire_rotation">Ротація шин</string>
+    <string name="brake_service">Обслуговування гальм</string>
+    <string name="engine_diagnostics">Діагностика двигуна</string>
+    <string name="maintenance">Технічне обслуговування</string>
+    <string name="book_service">Записатися на сервіс</string>
+
+    <!-- Maintenance Records -->
+    <string name="maintenance_history">Історія обслуговування</string>
+    <string name="last_service">Останнє обслуговування</string>
+    <string name="next_service">Наступне обслуговування</string>
+    <string name="service_date">Дата обслуговування</string>
+
+    <!-- Actions -->
+    <string name="save">Зберегти</string>
+    <string name="cancel">Скасувати</string>
+    <string name="delete">Видалити</string>
+    <string name="edit">Редагувати</string>
+    <string name="add">Додати</string>
+    <string name="confirm">Підтвердити</string>
+
+    <!-- Messages -->
+    <string name="success">Успішно</string>
+    <string name="error">Помилка</string>
+    <string name="loading">Завантаження…</string>
+    <string name="no_internet">Немає підключення до Інтернету</string>
+    <string name="please_wait">Будь ласка, зачекайте</string>
+</resources> 

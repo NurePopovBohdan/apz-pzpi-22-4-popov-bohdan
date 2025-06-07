@@ -1,0 +1,56 @@
+.maintenance-records {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.maintenance-records h2 {
+    color: #333;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.maintenance-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+.maintenance-item {
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border: 2px solid;
+    transition: transform 0.2s ease-in-out;
+}
+
+.maintenance-item:hover {
+    transform: translateY(-5px);
+}
+
+.maintenance-item h3 {
+    margin: 0 0 15px 0;
+    color: #333;
+    font-size: 1.2rem;
+    text-transform: capitalize;
+}
+
+.maintenance-item .value {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin: 10px 0;
+    color: #2c3e50;
+}
+
+.maintenance-item .status {
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.maintenance-item .threshold {
+    font-size: 0.9rem;
+    color: #666;
+    margin-top: 10px;
+} 
